@@ -1,0 +1,5 @@
+c:\users\silentangel\documents\visual studio 2015\Projects\Bejewled\Bejewled.View\Bejewled.ViewContent\obj\x86\Debug\Bejewled.ViewContent.contentprojResolveAssemblyReference.cache
+C:\Users\SilentAngel\Desktop\Team-Archanes-\Bejewled\Bejewled.View\Bejewled.ViewContent\obj\x86\Debug\Bejewled.ViewContent.contentprojResolveAssemblyReference.cache
+C:\Users\Villy\Desktop\Group Projects\C#\Team-Archanes-\Bejewled\Bejewled.View\Bejewled.ViewContent\obj\x86\Debug\Bejewled.ViewContent.contentprojResolveAssemblyReference.cache
+C:\Users\pc\Documents\Team-Archanes--master\Team-Archanes-\Bejewled\Bejewled.View\Bejewled.ViewContent\obj\x86\Debug\Bejewled.ViewContent.contentprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\GitHub\Team-Archanes-\Bejewled\Bejewled.View\Bejewled.ViewContent\obj\x86\Debug\Bejewled.ViewContent.contentprojResolveAssemblyReference.cache

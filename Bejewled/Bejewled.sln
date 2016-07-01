@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bejewled.View", "Bejewled.View\Bejewled.View\Bejewled.View.csproj", "{E4B966E0-3396-49D8-9B5B-70B6FD9A173F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bejewled.ViewContent", "Bejewled.View\Bejewled.ViewContent\Bejewled.ViewContent.contentproj", "{59FB6C3E-E183-46E3-A02B-3DB914C166D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bejewled.Core", "Bejewled.Model\Bejewled.Core.csproj", "{16B44C15-62D4-41F3-8755-AF5983FE49FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4B966E0-3396-49D8-9B5B-70B6FD9A173F}.Debug|x86.ActiveCfg = Debug|x86
+		{E4B966E0-3396-49D8-9B5B-70B6FD9A173F}.Debug|x86.Build.0 = Debug|x86
+		{E4B966E0-3396-49D8-9B5B-70B6FD9A173F}.Release|x86.ActiveCfg = Release|x86
+		{E4B966E0-3396-49D8-9B5B-70B6FD9A173F}.Release|x86.Build.0 = Release|x86
+		{59FB6C3E-E183-46E3-A02B-3DB914C166D9}.Debug|x86.ActiveCfg = Debug|x86
+		{59FB6C3E-E183-46E3-A02B-3DB914C166D9}.Release|x86.ActiveCfg = Release|x86
+		{16B44C15-62D4-41F3-8755-AF5983FE49FB}.Debug|x86.ActiveCfg = Debug|x86
+		{16B44C15-62D4-41F3-8755-AF5983FE49FB}.Debug|x86.Build.0 = Debug|x86
+		{16B44C15-62D4-41F3-8755-AF5983FE49FB}.Release|x86.ActiveCfg = Release|x86
+		{16B44C15-62D4-41F3-8755-AF5983FE49FB}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

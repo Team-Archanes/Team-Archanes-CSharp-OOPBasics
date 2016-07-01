@@ -1,0 +1,54 @@
+C:\Users\SilentAngel\Desktop\Team-Archanes-\Bejewled\Bejewled.Model\bin\x86\Debug\Bejewled.Model.dll
+C:\Users\SilentAngel\Desktop\Team-Archanes-\Bejewled\Bejewled.Model\bin\x86\Debug\Bejewled.Model.pdb
+C:\Users\SilentAngel\Desktop\Team-Archanes-\Bejewled\Bejewled.Model\obj\x86\Debug\Bejewled.Core.csprojResolveAssemblyReference.cache
+C:\Users\SilentAngel\Desktop\Team-Archanes-\Bejewled\Bejewled.Model\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\SilentAngel\Desktop\Team-Archanes-\Bejewled\Bejewled.Model\obj\x86\Debug\Bejewled.Model.dll
+C:\Users\SilentAngel\Desktop\Team-Archanes-\Bejewled\Bejewled.Model\obj\x86\Debug\Bejewled.Model.pdb
+C:\Users\Villy\Desktop\Group Projects\C#\Team-Archanes-\Bejewled\Bejewled.Model\bin\x86\Debug\Bejewled.Model.dll
+C:\Users\Villy\Desktop\Group Projects\C#\Team-Archanes-\Bejewled\Bejewled.Model\bin\x86\Debug\Bejewled.Model.pdb
+C:\Users\Villy\Desktop\Group Projects\C#\Team-Archanes-\Bejewled\Bejewled.Model\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Villy\Desktop\Group Projects\C#\Team-Archanes-\Bejewled\Bejewled.Model\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Villy\Desktop\Group Projects\C#\Team-Archanes-\Bejewled\Bejewled.Model\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Villy\Desktop\Group Projects\C#\Team-Archanes-\Bejewled\Bejewled.Model\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Villy\Desktop\Group Projects\C#\Team-Archanes-\Bejewled\Bejewled.Model\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Villy\Desktop\Group Projects\C#\Team-Archanes-\Bejewled\Bejewled.Model\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Villy\Desktop\Group Projects\C#\Team-Archanes-\Bejewled\Bejewled.Model\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Villy\Desktop\Group Projects\C#\Team-Archanes-\Bejewled\Bejewled.Model\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Villy\Desktop\Group Projects\C#\Team-Archanes-\Bejewled\Bejewled.Model\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Villy\Desktop\Group Projects\C#\Team-Archanes-\Bejewled\Bejewled.Model\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Villy\Desktop\Group Projects\C#\Team-Archanes-\Bejewled\Bejewled.Model\obj\x86\Debug\Bejewled.Core.csprojResolveAssemblyReference.cache
+C:\Users\Villy\Desktop\Group Projects\C#\Team-Archanes-\Bejewled\Bejewled.Model\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Villy\Desktop\Group Projects\C#\Team-Archanes-\Bejewled\Bejewled.Model\obj\x86\Debug\Bejewled.Model.dll
+C:\Users\Villy\Desktop\Group Projects\C#\Team-Archanes-\Bejewled\Bejewled.Model\obj\x86\Debug\Bejewled.Model.pdb
+C:\Users\pc\Documents\Team-Archanes--master\Team-Archanes-\Bejewled\Bejewled.Model\bin\x86\Debug\Bejewled.Model.dll
+C:\Users\pc\Documents\Team-Archanes--master\Team-Archanes-\Bejewled\Bejewled.Model\bin\x86\Debug\Bejewled.Model.pdb
+C:\Users\pc\Documents\Team-Archanes--master\Team-Archanes-\Bejewled\Bejewled.Model\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\pc\Documents\Team-Archanes--master\Team-Archanes-\Bejewled\Bejewled.Model\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\pc\Documents\Team-Archanes--master\Team-Archanes-\Bejewled\Bejewled.Model\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\pc\Documents\Team-Archanes--master\Team-Archanes-\Bejewled\Bejewled.Model\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\pc\Documents\Team-Archanes--master\Team-Archanes-\Bejewled\Bejewled.Model\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\pc\Documents\Team-Archanes--master\Team-Archanes-\Bejewled\Bejewled.Model\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\pc\Documents\Team-Archanes--master\Team-Archanes-\Bejewled\Bejewled.Model\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\pc\Documents\Team-Archanes--master\Team-Archanes-\Bejewled\Bejewled.Model\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\pc\Documents\Team-Archanes--master\Team-Archanes-\Bejewled\Bejewled.Model\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\pc\Documents\Team-Archanes--master\Team-Archanes-\Bejewled\Bejewled.Model\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\pc\Documents\Team-Archanes--master\Team-Archanes-\Bejewled\Bejewled.Model\obj\x86\Debug\Bejewled.Core.csprojResolveAssemblyReference.cache
+C:\Users\pc\Documents\Team-Archanes--master\Team-Archanes-\Bejewled\Bejewled.Model\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\pc\Documents\Team-Archanes--master\Team-Archanes-\Bejewled\Bejewled.Model\obj\x86\Debug\Bejewled.Model.dll
+C:\Users\pc\Documents\Team-Archanes--master\Team-Archanes-\Bejewled\Bejewled.Model\obj\x86\Debug\Bejewled.Model.pdb
+C:\Users\Ivan\Documents\GitHub\Team-Archanes-\Bejewled\Bejewled.Model\bin\x86\Debug\Bejewled.Model.dll
+C:\Users\Ivan\Documents\GitHub\Team-Archanes-\Bejewled\Bejewled.Model\bin\x86\Debug\Bejewled.Model.pdb
+C:\Users\Ivan\Documents\GitHub\Team-Archanes-\Bejewled\Bejewled.Model\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Ivan\Documents\GitHub\Team-Archanes-\Bejewled\Bejewled.Model\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Ivan\Documents\GitHub\Team-Archanes-\Bejewled\Bejewled.Model\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Ivan\Documents\GitHub\Team-Archanes-\Bejewled\Bejewled.Model\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Ivan\Documents\GitHub\Team-Archanes-\Bejewled\Bejewled.Model\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Ivan\Documents\GitHub\Team-Archanes-\Bejewled\Bejewled.Model\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Ivan\Documents\GitHub\Team-Archanes-\Bejewled\Bejewled.Model\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Ivan\Documents\GitHub\Team-Archanes-\Bejewled\Bejewled.Model\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Ivan\Documents\GitHub\Team-Archanes-\Bejewled\Bejewled.Model\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Ivan\Documents\GitHub\Team-Archanes-\Bejewled\Bejewled.Model\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Ivan\Documents\GitHub\Team-Archanes-\Bejewled\Bejewled.Model\obj\x86\Debug\Bejewled.Core.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\GitHub\Team-Archanes-\Bejewled\Bejewled.Model\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Ivan\Documents\GitHub\Team-Archanes-\Bejewled\Bejewled.Model\obj\x86\Debug\Bejewled.Model.dll
+C:\Users\Ivan\Documents\GitHub\Team-Archanes-\Bejewled\Bejewled.Model\obj\x86\Debug\Bejewled.Model.pdb
