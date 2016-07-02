@@ -7,5 +7,5 @@ Content\redgemTrans.xnb
 Content\whitegemTrans.xnb
 Content\yellowgemTrans.xnb
 Content\hintButton.xnb
-Content\scoreFont.xnb
 Content\emptyTrans.xnb
+Content\scoreFont.xnb

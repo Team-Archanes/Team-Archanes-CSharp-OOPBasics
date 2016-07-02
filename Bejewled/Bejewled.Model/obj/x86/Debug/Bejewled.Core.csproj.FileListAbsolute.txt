@@ -52,3 +52,35 @@ C:\Users\Ivan\Documents\GitHub\Team-Archanes-\Bejewled\Bejewled.Model\obj\x86\De
 C:\Users\Ivan\Documents\GitHub\Team-Archanes-\Bejewled\Bejewled.Model\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 C:\Users\Ivan\Documents\GitHub\Team-Archanes-\Bejewled\Bejewled.Model\obj\x86\Debug\Bejewled.Model.dll
 C:\Users\Ivan\Documents\GitHub\Team-Archanes-\Bejewled\Bejewled.Model\obj\x86\Debug\Bejewled.Model.pdb
+C:\Users\Villy\Desktop\OOPProjects\C#\Bejewled\Bejewled.Model\bin\x86\Debug\Bejewled.Model.dll
+C:\Users\Villy\Desktop\OOPProjects\C#\Bejewled\Bejewled.Model\bin\x86\Debug\Bejewled.Model.pdb
+C:\Users\Villy\Desktop\OOPProjects\C#\Bejewled\Bejewled.Model\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Villy\Desktop\OOPProjects\C#\Bejewled\Bejewled.Model\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Villy\Desktop\OOPProjects\C#\Bejewled\Bejewled.Model\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Villy\Desktop\OOPProjects\C#\Bejewled\Bejewled.Model\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Villy\Desktop\OOPProjects\C#\Bejewled\Bejewled.Model\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Villy\Desktop\OOPProjects\C#\Bejewled\Bejewled.Model\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Villy\Desktop\OOPProjects\C#\Bejewled\Bejewled.Model\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Villy\Desktop\OOPProjects\C#\Bejewled\Bejewled.Model\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Villy\Desktop\OOPProjects\C#\Bejewled\Bejewled.Model\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Villy\Desktop\OOPProjects\C#\Bejewled\Bejewled.Model\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Villy\Desktop\OOPProjects\C#\Bejewled\Bejewled.Model\obj\x86\Debug\Bejewled.Core.csprojResolveAssemblyReference.cache
+C:\Users\Villy\Desktop\OOPProjects\C#\Bejewled\Bejewled.Model\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Villy\Desktop\OOPProjects\C#\Bejewled\Bejewled.Model\obj\x86\Debug\Bejewled.Model.dll
+C:\Users\Villy\Desktop\OOPProjects\C#\Bejewled\Bejewled.Model\obj\x86\Debug\Bejewled.Model.pdb
+C:\Users\Villy\Desktop\OOPProjects\C#\Bejewled - Copy\Bejewled.Model\bin\x86\Debug\Bejewled.Model.dll
+C:\Users\Villy\Desktop\OOPProjects\C#\Bejewled - Copy\Bejewled.Model\bin\x86\Debug\Bejewled.Model.pdb
+C:\Users\Villy\Desktop\OOPProjects\C#\Bejewled - Copy\Bejewled.Model\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Villy\Desktop\OOPProjects\C#\Bejewled - Copy\Bejewled.Model\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Villy\Desktop\OOPProjects\C#\Bejewled - Copy\Bejewled.Model\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Villy\Desktop\OOPProjects\C#\Bejewled - Copy\Bejewled.Model\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Villy\Desktop\OOPProjects\C#\Bejewled - Copy\Bejewled.Model\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Villy\Desktop\OOPProjects\C#\Bejewled - Copy\Bejewled.Model\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Villy\Desktop\OOPProjects\C#\Bejewled - Copy\Bejewled.Model\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Villy\Desktop\OOPProjects\C#\Bejewled - Copy\Bejewled.Model\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Villy\Desktop\OOPProjects\C#\Bejewled - Copy\Bejewled.Model\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Villy\Desktop\OOPProjects\C#\Bejewled - Copy\Bejewled.Model\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Villy\Desktop\OOPProjects\C#\Bejewled - Copy\Bejewled.Model\obj\x86\Debug\Bejewled.Core.csprojResolveAssemblyReference.cache
+C:\Users\Villy\Desktop\OOPProjects\C#\Bejewled - Copy\Bejewled.Model\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Villy\Desktop\OOPProjects\C#\Bejewled - Copy\Bejewled.Model\obj\x86\Debug\Bejewled.Model.dll
+C:\Users\Villy\Desktop\OOPProjects\C#\Bejewled - Copy\Bejewled.Model\obj\x86\Debug\Bejewled.Model.pdb

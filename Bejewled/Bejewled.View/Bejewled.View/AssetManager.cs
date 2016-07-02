@@ -13,12 +13,12 @@ public class AssetManager
         this.contentManager = Content;
     }
 
- //   public Texture2D GetSprite(string assetName)
- //   {
- //       if (assetName == "")
- //           return null;
- //       return contentManager.Load<Texture2D>(assetName);
- //   }
+    public Texture2D GetSprite(string assetName)
+    {
+        if (assetName == "")
+            return null;
+        return contentManager.Load<Texture2D>(assetName);
+    }
 
     public void PlaySound(string assetName)
     {

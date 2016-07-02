@@ -1,8 +1,10 @@
+using Microsoft.Xna.Framework;
+
 namespace Bejewled.View
 {
     using Microsoft.Xna.Framework.Content;
 
-    internal static class Program
+    class Program : GameEnvironment
     {
 
         private static void Main(string[] args)
@@ -12,5 +14,10 @@ namespace Bejewled.View
                 game.Run();
             }
         }
+
+       
     }
+
+    
+    
 }

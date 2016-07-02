@@ -59,9 +59,33 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AssetManager.cs" />
+    <Compile Include="Collision.cs" />
+    <Compile Include="DrawingHelper.cs" />
+    <Compile Include="GameEnvironment.cs" />
+    <Compile Include="gameobjects\GameObject.cs" />
+    <Compile Include="gameobjects\GameObjectGrid.cs" />
+    <Compile Include="gameobjects\GameObjectList.cs" />
+    <Compile Include="gameobjects\SpriteGameObject.cs" />
+    <Compile Include="gameobjects\TextGameObject.cs" />
+    <Compile Include="GameSettingManager.cs" />
+    <Compile Include="GameStateManager.cs" />
+    <Compile Include="IGameLoopObject.cs" />
+    <Compile Include="InputHelper.cs" />
+    <Compile Include="level\Level.cs" />
+    <Compile Include="level\LevelGameLoop.cs" />
+    <Compile Include="level\LevelLoading.cs" />
+    <Compile Include="menu\Button.cs" />
+    <Compile Include="menu\LevelButton.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="BejeweledView.cs" />
+    <Compile Include="SpriteSheet.cs" />
+    <Compile Include="states\GameOverState.cs" />
+    <Compile Include="states\HelpState.cs" />
+    <Compile Include="states\LevelFinishedState.cs" />
+    <Compile Include="states\LevelMenuState.cs" />
+    <Compile Include="states\PlayingState.cs" />
+    <Compile Include="states\TitleMenuState.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Game.ico" />

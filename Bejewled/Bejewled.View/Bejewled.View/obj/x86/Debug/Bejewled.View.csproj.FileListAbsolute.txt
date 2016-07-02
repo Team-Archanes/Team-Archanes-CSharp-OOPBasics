@@ -114,3 +114,61 @@ C:\Users\Ivan\Documents\GitHub\Team-Archanes-\Bejewled\Bejewled.View\Bejewled.Vi
 C:\Users\Ivan\Documents\GitHub\Team-Archanes-\Bejewled\Bejewled.View\Bejewled.View\bin\x86\Debug\Content\hintButton.xnb
 C:\Users\SilentAngel\Desktop\Team-Archanes-\Bejewled\Bejewled.View\Bejewled.View\bin\x86\Debug\Content\hintButton.xnb
 C:\Users\SilentAngel\Desktop\Team-Archanes-\Bejewled\Bejewled.View\Bejewled.View\bin\x86\Debug\Content\emptyTrans.xnb
+C:\Users\Villy\Desktop\OOPProjects\C#\Bejewled\Bejewled.View\Bejewled.View\bin\x86\Debug\Content\boardFinal.xnb
+C:\Users\Villy\Desktop\OOPProjects\C#\Bejewled\Bejewled.View\Bejewled.View\bin\x86\Debug\Content\greengemTrans.xnb
+C:\Users\Villy\Desktop\OOPProjects\C#\Bejewled\Bejewled.View\Bejewled.View\bin\x86\Debug\Content\bluegemTrans.xnb
+C:\Users\Villy\Desktop\OOPProjects\C#\Bejewled\Bejewled.View\Bejewled.View\bin\x86\Debug\Content\purplegemTrans.xnb
+C:\Users\Villy\Desktop\OOPProjects\C#\Bejewled\Bejewled.View\Bejewled.View\bin\x86\Debug\Content\rainbowTrans.xnb
+C:\Users\Villy\Desktop\OOPProjects\C#\Bejewled\Bejewled.View\Bejewled.View\bin\x86\Debug\Content\redgemTrans.xnb
+C:\Users\Villy\Desktop\OOPProjects\C#\Bejewled\Bejewled.View\Bejewled.View\bin\x86\Debug\Content\whitegemTrans.xnb
+C:\Users\Villy\Desktop\OOPProjects\C#\Bejewled\Bejewled.View\Bejewled.View\bin\x86\Debug\Content\yellowgemTrans.xnb
+C:\Users\Villy\Desktop\OOPProjects\C#\Bejewled\Bejewled.View\Bejewled.View\bin\x86\Debug\Content\hintButton.xnb
+C:\Users\Villy\Desktop\OOPProjects\C#\Bejewled\Bejewled.View\Bejewled.View\bin\x86\Debug\Content\emptyTrans.xnb
+C:\Users\Villy\Desktop\OOPProjects\C#\Bejewled\Bejewled.View\Bejewled.View\bin\x86\Debug\Content\scoreFont.xnb
+C:\Users\Villy\Desktop\OOPProjects\C#\Bejewled\Bejewled.View\Bejewled.View\bin\x86\Debug\Bejewled.View.exe
+C:\Users\Villy\Desktop\OOPProjects\C#\Bejewled\Bejewled.View\Bejewled.View\bin\x86\Debug\Bejewled.View.pdb
+C:\Users\Villy\Desktop\OOPProjects\C#\Bejewled\Bejewled.View\Bejewled.View\bin\x86\Debug\Bejewled.Model.dll
+C:\Users\Villy\Desktop\OOPProjects\C#\Bejewled\Bejewled.View\Bejewled.View\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Villy\Desktop\OOPProjects\C#\Bejewled\Bejewled.View\Bejewled.View\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Villy\Desktop\OOPProjects\C#\Bejewled\Bejewled.View\Bejewled.View\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Villy\Desktop\OOPProjects\C#\Bejewled\Bejewled.View\Bejewled.View\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Villy\Desktop\OOPProjects\C#\Bejewled\Bejewled.View\Bejewled.View\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Villy\Desktop\OOPProjects\C#\Bejewled\Bejewled.View\Bejewled.View\bin\x86\Debug\Bejewled.Model.pdb
+C:\Users\Villy\Desktop\OOPProjects\C#\Bejewled\Bejewled.View\Bejewled.View\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Villy\Desktop\OOPProjects\C#\Bejewled\Bejewled.View\Bejewled.View\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Villy\Desktop\OOPProjects\C#\Bejewled\Bejewled.View\Bejewled.View\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Villy\Desktop\OOPProjects\C#\Bejewled\Bejewled.View\Bejewled.View\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Villy\Desktop\OOPProjects\C#\Bejewled\Bejewled.View\Bejewled.View\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Villy\Desktop\OOPProjects\C#\Bejewled\Bejewled.View\Bejewled.View\obj\x86\Debug\Bejewled.View.csprojResolveAssemblyReference.cache
+C:\Users\Villy\Desktop\OOPProjects\C#\Bejewled\Bejewled.View\Bejewled.View\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Villy\Desktop\OOPProjects\C#\Bejewled\Bejewled.View\Bejewled.View\obj\x86\Debug\Bejewled.View.exe
+C:\Users\Villy\Desktop\OOPProjects\C#\Bejewled\Bejewled.View\Bejewled.View\obj\x86\Debug\Bejewled.View.pdb
+C:\Users\Villy\Desktop\OOPProjects\C#\Bejewled - Copy\Bejewled.View\Bejewled.View\obj\x86\Debug\Bejewled.View.csprojResolveAssemblyReference.cache
+C:\Users\Villy\Desktop\OOPProjects\C#\Bejewled - Copy\Bejewled.View\Bejewled.View\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Villy\Desktop\OOPProjects\C#\Bejewled - Copy\Bejewled.View\Bejewled.View\obj\x86\Debug\Bejewled.View.exe
+C:\Users\Villy\Desktop\OOPProjects\C#\Bejewled - Copy\Bejewled.View\Bejewled.View\obj\x86\Debug\Bejewled.View.pdb
+C:\Users\Villy\Desktop\OOPProjects\C#\Bejewled - Copy\Bejewled.View\Bejewled.View\bin\x86\Debug\Content\boardFinal.xnb
+C:\Users\Villy\Desktop\OOPProjects\C#\Bejewled - Copy\Bejewled.View\Bejewled.View\bin\x86\Debug\Content\greengemTrans.xnb
+C:\Users\Villy\Desktop\OOPProjects\C#\Bejewled - Copy\Bejewled.View\Bejewled.View\bin\x86\Debug\Content\bluegemTrans.xnb
+C:\Users\Villy\Desktop\OOPProjects\C#\Bejewled - Copy\Bejewled.View\Bejewled.View\bin\x86\Debug\Content\purplegemTrans.xnb
+C:\Users\Villy\Desktop\OOPProjects\C#\Bejewled - Copy\Bejewled.View\Bejewled.View\bin\x86\Debug\Content\rainbowTrans.xnb
+C:\Users\Villy\Desktop\OOPProjects\C#\Bejewled - Copy\Bejewled.View\Bejewled.View\bin\x86\Debug\Content\redgemTrans.xnb
+C:\Users\Villy\Desktop\OOPProjects\C#\Bejewled - Copy\Bejewled.View\Bejewled.View\bin\x86\Debug\Content\whitegemTrans.xnb
+C:\Users\Villy\Desktop\OOPProjects\C#\Bejewled - Copy\Bejewled.View\Bejewled.View\bin\x86\Debug\Content\yellowgemTrans.xnb
+C:\Users\Villy\Desktop\OOPProjects\C#\Bejewled - Copy\Bejewled.View\Bejewled.View\bin\x86\Debug\Content\hintButton.xnb
+C:\Users\Villy\Desktop\OOPProjects\C#\Bejewled - Copy\Bejewled.View\Bejewled.View\bin\x86\Debug\Content\emptyTrans.xnb
+C:\Users\Villy\Desktop\OOPProjects\C#\Bejewled - Copy\Bejewled.View\Bejewled.View\bin\x86\Debug\Content\scoreFont.xnb
+C:\Users\Villy\Desktop\OOPProjects\C#\Bejewled - Copy\Bejewled.View\Bejewled.View\bin\x86\Debug\Bejewled.View.exe
+C:\Users\Villy\Desktop\OOPProjects\C#\Bejewled - Copy\Bejewled.View\Bejewled.View\bin\x86\Debug\Bejewled.View.pdb
+C:\Users\Villy\Desktop\OOPProjects\C#\Bejewled - Copy\Bejewled.View\Bejewled.View\bin\x86\Debug\Bejewled.Model.dll
+C:\Users\Villy\Desktop\OOPProjects\C#\Bejewled - Copy\Bejewled.View\Bejewled.View\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Villy\Desktop\OOPProjects\C#\Bejewled - Copy\Bejewled.View\Bejewled.View\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Villy\Desktop\OOPProjects\C#\Bejewled - Copy\Bejewled.View\Bejewled.View\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Villy\Desktop\OOPProjects\C#\Bejewled - Copy\Bejewled.View\Bejewled.View\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Villy\Desktop\OOPProjects\C#\Bejewled - Copy\Bejewled.View\Bejewled.View\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Villy\Desktop\OOPProjects\C#\Bejewled - Copy\Bejewled.View\Bejewled.View\bin\x86\Debug\Bejewled.Model.pdb
+C:\Users\Villy\Desktop\OOPProjects\C#\Bejewled - Copy\Bejewled.View\Bejewled.View\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Villy\Desktop\OOPProjects\C#\Bejewled - Copy\Bejewled.View\Bejewled.View\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Villy\Desktop\OOPProjects\C#\Bejewled - Copy\Bejewled.View\Bejewled.View\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Villy\Desktop\OOPProjects\C#\Bejewled - Copy\Bejewled.View\Bejewled.View\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Villy\Desktop\OOPProjects\C#\Bejewled - Copy\Bejewled.View\Bejewled.View\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
