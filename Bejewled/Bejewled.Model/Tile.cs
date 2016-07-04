@@ -15,7 +15,7 @@
 
         public TilePosition Position { get; set; }
 
-        public TileType TileType { get; private set; }
+        public TileType TileType { get; set; }
 
         public bool Equals(ITile other)
         {

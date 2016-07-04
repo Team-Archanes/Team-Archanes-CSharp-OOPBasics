@@ -7,6 +7,7 @@ namespace Bejewled.Model
     using System.Linq;
 
     using Bejewled.Model.Enums;
+    using Bejewled.Model.EventArgs;
     using Bejewled.Model.Interfaces;
 
     public class GameBoard : IGameBoard
@@ -49,7 +50,6 @@ namespace Bejewled.Model
             this.GenerateTilesOnEmptySpots();
         }
 
-        // Checks if move is valid
         public void CheckForValidMove(ITile firstClickedTile, ITile secondClickedTile)
         {
             var differenceX = Math.Abs(firstClickedTile.Position.X - secondClickedTile.Position.X);
@@ -58,6 +58,7 @@ namespace Bejewled.Model
             // todo: Needs to be implemented better
             if (differenceX + differenceY == 1)
             {
+
                 this.SwapTiles(firstClickedTile, secondClickedTile);
 
                 var allTileMatches = this.GetAllTileMatches();
@@ -128,6 +129,26 @@ namespace Bejewled.Model
                 }
             }
         }
+
+        private void ValidMoveMade(ITile firstClickedTile, ITile secondClickedTile)
+        {
+            if (this.OnValidMove != null)
+            {
+                int firstTileTypeIndex = (int)firstClickedTile.TileType;
+                int firstTileX = firstClickedTile.Position.X;
+                int firstTileY = firstClickedTile.Position.Y;
+                int secondTileTypeIndex = (int)secondClickedTile.TileType;
+                int secondTileX = secondClickedTile.Position.X;
+                int secondTileY = secondClickedTile.Position.Y;
+                this.OnValidMove(
+                    this,
+                    new TileEventArgs(firstTileTypeIndex, firstTileX, firstTileY, secondTileTypeIndex, secondTileX, secondTileY));
+            }
+        }
+
+        public event EventHandler<TileEventArgs> OnValidMove;
+
+
 
         public IEnumerable<ITile> GetHint()
         {
@@ -640,15 +661,7 @@ namespace Bejewled.Model
             this.gameBoard[firstClickedTile.Position.X, firstClickedTile.Position.Y] = secondClickedTile;
             this.gameBoard[secondClickedTile.Position.X, secondClickedTile.Position.Y] = firstClickedTile;
 
-            int x = firstClickedTile.Position.X;
-            int y = firstClickedTile.Position.Y;
-
-            firstClickedTile.Position.X = secondClickedTile.Position.X;
-            firstClickedTile.Position.Y = secondClickedTile.Position.Y;
-
-            secondClickedTile.Position.X = x;
-            secondClickedTile.Position.Y = y;
-
+            this.ValidMoveMade(firstClickedTile, secondClickedTile);
 
 
 

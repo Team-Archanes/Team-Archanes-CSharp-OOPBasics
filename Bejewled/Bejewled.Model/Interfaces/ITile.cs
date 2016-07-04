@@ -6,6 +6,6 @@
     {
         TilePosition Position { get; set; }
 
-        TileType TileType { get; }
+        TileType TileType { get; set; }
     }
 }

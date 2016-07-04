@@ -159,6 +159,25 @@ namespace Bejewled.View
             this.spriteBatch.End();
         }
 
+        public void DisplaySwapedTiles(TileEventArgs tiles)
+        {
+            this.assetManager.Mute();
+            this.spriteBatch.Begin(SpriteSortMode.BackToFront, BlendState.AlphaBlend);
+            this.Tiles[tiles.FirstTileX, tiles.FirstTileY] = tiles.FirstTileTypeIndex;
+            this.Tiles[tiles.SecondTileX, tiles.SecondTileY] = tiles.SecondTileTypeIndex;
+            this.spriteBatch.Draw(
+                        this.textureTiles[this.Tiles[tiles.FirstTileX, tiles.SecondTileY]],
+                        new Vector2(tiles.FirstTileY+50, tiles.FirstTileX+250),
+                        null,
+                        Color.White,
+                        0f,
+                        Vector2.Zero,
+                        0.5f,
+                        SpriteEffects.None,
+                        0);
+            this.spriteBatch.End();
+        }
+
         /// <summary>
         /// Allows the game to perform any initialization it needs to before starting to run.
         /// This is where it can query for any required services and load any non-graphic

@@ -13,5 +13,7 @@
         event EventHandler<TileEventArgs> OnTileClicked;
 
         void DrawGameBoard();
+
+        void DisplaySwapedTiles(TileEventArgs tiles);
     }
 }
