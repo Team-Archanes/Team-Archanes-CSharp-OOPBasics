@@ -34,6 +34,8 @@ namespace Bejewled.View
 
         private Texture2D hintButton;
 
+        private Texture2D soundButton;
+
         private bool isFirstClick;
 
         private MouseState mouseState;
@@ -124,6 +126,7 @@ namespace Bejewled.View
                 new Vector2(30, 120), 
                 Color.GreenYellow);
             this.spriteBatch.Draw(this.hintButton, new Vector2(60, 430), null, Color.White);
+            this.spriteBatch.Draw(this.soundButton, new Vector2(0, 0), null, Color.White);
             this.spriteBatch.End();
 
             // TODO: Add your drawing code here
@@ -213,6 +216,7 @@ namespace Bejewled.View
             this.grid = this.Content.Load<Texture2D>(@"boardFinal");
             this.scoreFont = this.Content.Load<SpriteFont>("scoreFont");
             this.hintButton = this.Content.Load<Texture2D>(@"hintButton");
+            this.soundButton = this.Content.Load<Texture2D>(@"soundButton");
 
             if (this.OnLoad != null)
             {
@@ -249,8 +253,20 @@ namespace Bejewled.View
             this.mouseState = Mouse.GetState();
             this.DetectGameBoardClick();
 
+            if (CheckIfSoundButtonIsPressed())
+            {
+                this.assetManager.Mute();
+            }
+
             // TODO: Add your update logic here
             base.Update(gameTime);
+        }
+
+        private bool CheckIfSoundButtonIsPressed()
+        {
+            Rectangle rect = new Rectangle(0, 0, soundButton.Width, soundButton.Height);
+            return this.mouseState.LeftButton == ButtonState.Pressed &&
+                rect.Contains(this.mouseState.X, this.mouseState.Y);
         }
     }
 }

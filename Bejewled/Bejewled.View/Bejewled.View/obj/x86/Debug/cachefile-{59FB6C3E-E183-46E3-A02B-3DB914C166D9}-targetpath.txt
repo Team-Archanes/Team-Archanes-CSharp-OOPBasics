@@ -8,4 +8,5 @@ Content\whitegemTrans.xnb
 Content\yellowgemTrans.xnb
 Content\hintButton.xnb
 Content\emptyTrans.xnb
+Content\soundButton.xnb
 Content\scoreFont.xnb
