@@ -13,11 +13,11 @@ namespace Bejewled.View
             {
                 game.Run();
             }
-        }
 
-       
+
+
+
+
+        }      
     }
-
-    
-    
 }
