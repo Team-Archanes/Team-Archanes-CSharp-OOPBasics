@@ -22,6 +22,8 @@
 
         void NormalizeFocusedTile(ITile firstClickedTile);
 
+        void CheckForGameOver();
+
         void FirstTileClicked(ITile firstClickedTile);
 
         void RemoveMatchedTiles();

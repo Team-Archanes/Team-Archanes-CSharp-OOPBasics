@@ -44,6 +44,8 @@ namespace Bejewled.View
 
         private bool isFirstClick;
 
+        private bool isMuted;
+
         private MouseState mouseState;
 
         private BejeweledPresenter presenter;
@@ -51,6 +53,8 @@ namespace Bejewled.View
         private MouseState prevMouseState = Mouse.GetState();
 
         private SpriteFont scoreFont;
+
+        private Texture2D soundButton;
 
         private Rectangle sourceRectangle;
 
@@ -247,6 +251,7 @@ namespace Bejewled.View
             this.DrawScore();
             this.spriteBatch.Begin(SpriteSortMode.BackToFront, BlendState.AlphaBlend);
             this.spriteBatch.Draw(this.hintButton, new Vector2(60, 430), null, Color.White);
+            this.spriteBatch.Draw(this.soundButton, new Vector2(0, 0), null, Color.White);
             this.spriteBatch.End();
 
             // TODO: Add your drawing code here
@@ -297,7 +302,7 @@ namespace Bejewled.View
             this.grid = this.Content.Load<Texture2D>(@"boardFinal");
             this.scoreFont = this.Content.Load<SpriteFont>("scoreFont");
             this.hintButton = this.Content.Load<Texture2D>(@"hintButton");
-
+            this.soundButton = this.Content.Load<Texture2D>(@"soundButton");
             if (this.OnLoad != null)
             {
                 this.OnLoad(this, EventArgs.Empty);
@@ -333,9 +338,28 @@ namespace Bejewled.View
             this.mouseState = Mouse.GetState();
             this.DetectGameBoardClick();
             this.ExcuteAnimation(gameTime);
-
+            if (this.CheckIfSoundButtonIsPressed())
+            {
+                /*if (this.isMuted)
+                {
+                    this.assetManager.PlayMusic("snd_music");
+                    this.isMuted = false;
+                }
+                else
+                {*/
+                this.isMuted = true;
+                this.assetManager.Mute();
+                /*}*/
+            }
             // TODO: Add your update logic here            
             base.Update(gameTime);
+        }
+
+        private bool CheckIfSoundButtonIsPressed()
+        {
+            var rect = new Rectangle(0, 0, this.soundButton.Width, this.soundButton.Height);
+            return this.mouseState.LeftButton == ButtonState.Pressed
+                   && rect.Contains(this.mouseState.X, this.mouseState.Y);
         }
 
         private void ExcuteAnimation(GameTime gameTime)

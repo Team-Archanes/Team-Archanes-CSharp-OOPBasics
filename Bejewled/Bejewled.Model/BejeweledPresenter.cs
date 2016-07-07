@@ -60,6 +60,7 @@ namespace Bejewled.Model
             this.view.Tiles = this.gameBoard.GenerateNumericGameBoard();
             this.view.DrawGameBoard();
             this.view.Score = scoreEventArgs.GainedScore;
+            //this.gameBoard.CheckForGameOver();
         }
 
         private void OnExplosionFinished(object sender, System.EventArgs e)

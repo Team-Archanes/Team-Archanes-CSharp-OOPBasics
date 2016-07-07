@@ -174,6 +174,7 @@
                             index--;
                             this.score.IncreaseScore();
                             this.TileRemoved();
+                            this.CheckForGameOver();
                         }
                         this.gameBoard[index, j] = this.tileGenerator.CreateRandomTile(index, j);
                         this.TileRemoved();
@@ -196,10 +197,14 @@
                     otherGameBoard[i, j] = (int)this.gameBoard[i, j].TileType;
                 }
             }
+            return otherGameBoard;
+        }
+
+        public void CheckForGameOver()
+        {
             this.possibleTile = this.hint.GetPossibleTile(this.gameBoard);
             this.GameOver();
             this.possibleTile = null;
-            return otherGameBoard;
         }
 
         private void ValidMoveMade(ITile firstClickedTile, ITile secondClickedTile)
