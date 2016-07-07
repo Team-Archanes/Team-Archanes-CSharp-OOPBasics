@@ -10,10 +10,20 @@
 
         event EventHandler OnLoad;
 
-        event EventHandler<TileEventArgs> OnTileClicked;
+        event EventHandler<TileEventArgs> OnSecondTileClicked;
+
+        event EventHandler OnExplosionFinished;
+
+        event EventHandler<TileEventArgs> OnFirstTileClicked;
+
+        event EventHandler OnHintClicked;
+
+        string Score { get; set; }
+
+        void DisplayGameEndMessage();
+
+        void DrawScore();
 
         void DrawGameBoard();
-
-        void DisplaySwapedTiles(TileEventArgs tiles);
     }
 }

@@ -12,6 +12,20 @@
 
         event EventHandler<TileEventArgs> OnValidMove;
 
+        event EventHandler<ScoreEventArgs> OnTileRemoved;
+
+        event EventHandler OnTileFocused;
+
+        event EventHandler OnGameOver;
+
+        ITile GetHint();
+
+        void NormalizeFocusedTile(ITile firstClickedTile);
+
+        void FirstTileClicked(ITile firstClickedTile);
+
+        void RemoveMatchedTiles();
+
         int[,] GenerateNumericGameBoard();
     }
 }

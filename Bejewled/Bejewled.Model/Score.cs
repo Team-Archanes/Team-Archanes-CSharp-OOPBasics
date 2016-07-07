@@ -4,22 +4,21 @@
 
     public class Score : IScore
     {
-        private int playerScore;
-
         public Score()
         {
+            this.PlayerScore = 0;
+        }
+
+        public int PlayerScore { get; private set; }
+
+        public void IncreaseScore()
+        {
+            this.PlayerScore += 10;
         }
 
         public void Reset()
         {
-            this.Reset();
-            playerScore = 0;
-        }
-
-        public int PlayerScore
-        {
-            get { return playerScore; }
-            set { playerScore = value; }
+            this.PlayerScore = 0;
         }
     }
 }

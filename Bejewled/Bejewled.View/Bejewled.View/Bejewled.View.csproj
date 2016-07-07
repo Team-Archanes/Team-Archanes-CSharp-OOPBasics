@@ -59,6 +59,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AssetManager.cs" />
+    <Compile Include="BejeweledView.cs" />
     <Compile Include="Stage2\animation\Animation.cs" />
     <Compile Include="Stage2\gameobjects\AnimatedGameObject.cs" />
     <Compile Include="Stage2\Collision.cs" />
@@ -88,7 +89,6 @@
     <Compile Include="Stage2\menu\LevelButton.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Program.cs" />
-    <Compile Include="BejeweledView.cs" />
     <Compile Include="Stage2\SpriteSheet.cs" />
     <Compile Include="Stage2\states\GameOverState.cs" />
     <Compile Include="Stage2\states\HelpState.cs" />

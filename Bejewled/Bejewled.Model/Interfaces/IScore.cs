@@ -2,5 +2,8 @@
 {
     public interface IScore
     {
+        void IncreaseScore();
+
+        int PlayerScore { get;}
     }
 }

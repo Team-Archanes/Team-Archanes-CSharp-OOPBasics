@@ -5,19 +5,24 @@
     public class TileEventArgs : EventArgs
     {
         public TileEventArgs(
-            int firsttileTypeIndex, 
-            int firstTileX, 
-            int firstTileY, 
-            int secondTileTypeIndex, 
-            int secondTileX, 
+            int firsttileTypeIndex,
+            int firstTileX,
+            int firstTileY,
+            int secondTileTypeIndex,
+            int secondTileX,
             int secondTileY)
+            : this(firsttileTypeIndex, firstTileX, firstTileY)
+        {
+            this.SecondTileX = secondTileX;
+            this.SecondTileY = secondTileY;
+            this.SecondTileTypeIndex = secondTileTypeIndex;
+        }
+
+        public TileEventArgs(int firsttileTypeIndex, int firstTileX, int firstTileY)
         {
             this.FirstTileX = firstTileX;
             this.FirstTileY = firstTileY;
             this.FirstTileTypeIndex = firsttileTypeIndex;
-            this.SecondTileX = secondTileX;
-            this.SecondTileY = secondTileY;
-            this.SecondTileTypeIndex = secondTileTypeIndex;
         }
 
         public int FirstTileTypeIndex { get; set; }

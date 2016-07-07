@@ -2,20 +2,34 @@
 {
     public enum TileType
     {
-        Red, 
+        Red,
 
-        Green, 
+        Green,
 
-        Blue, 
+        Blue,
 
-        Yellow, 
+        Yellow,
 
-        Purple, 
+        Purple,
 
-        White, 
+        White,
 
-        RainBow, 
+        RainBow,
 
-        Empty
+        Explosive,
+
+        RedClicked,
+
+        GreenClicked,
+
+        BlueClicked,
+
+        YellowClicked,
+
+        PurpleClicked,
+
+        WhiteClicked,
+
+        RainbowClicked
     }
 }

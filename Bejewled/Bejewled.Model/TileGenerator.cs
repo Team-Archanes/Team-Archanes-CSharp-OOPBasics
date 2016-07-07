@@ -7,10 +7,16 @@
 
     public class TileGenerator
     {
+        private readonly Random rand;
+
+        public TileGenerator()
+        {
+            this.rand = new Random();
+        }
+
         public ITile CreateRandomTile(int row, int column)
         {
-            var rand = new Random();
-            var tileNum = rand.Next(7);
+            var tileNum = this.rand.Next(7);
             Tile tile = null;
             switch (tileNum)
             {

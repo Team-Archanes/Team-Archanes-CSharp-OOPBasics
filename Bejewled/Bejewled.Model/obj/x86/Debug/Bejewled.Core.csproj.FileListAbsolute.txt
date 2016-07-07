@@ -84,12 +84,6 @@ C:\Users\Villy\Desktop\OOPProjects\C#\Bejewled - Copy\Bejewled.Model\obj\x86\Deb
 C:\Users\Villy\Desktop\OOPProjects\C#\Bejewled - Copy\Bejewled.Model\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 C:\Users\Villy\Desktop\OOPProjects\C#\Bejewled - Copy\Bejewled.Model\obj\x86\Debug\Bejewled.Model.dll
 C:\Users\Villy\Desktop\OOPProjects\C#\Bejewled - Copy\Bejewled.Model\obj\x86\Debug\Bejewled.Model.pdb
-C:\Users\SilentAngel\Desktop\Team-Archanes-CSharp-OOPBasics\Bejewled\Bejewled.Model\bin\x86\Debug\Bejewled.Model.dll
-C:\Users\SilentAngel\Desktop\Team-Archanes-CSharp-OOPBasics\Bejewled\Bejewled.Model\bin\x86\Debug\Bejewled.Model.pdb
-C:\Users\SilentAngel\Desktop\Team-Archanes-CSharp-OOPBasics\Bejewled\Bejewled.Model\obj\x86\Debug\Bejewled.Core.csprojResolveAssemblyReference.cache
-C:\Users\SilentAngel\Desktop\Team-Archanes-CSharp-OOPBasics\Bejewled\Bejewled.Model\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
-C:\Users\SilentAngel\Desktop\Team-Archanes-CSharp-OOPBasics\Bejewled\Bejewled.Model\obj\x86\Debug\Bejewled.Model.dll
-C:\Users\SilentAngel\Desktop\Team-Archanes-CSharp-OOPBasics\Bejewled\Bejewled.Model\obj\x86\Debug\Bejewled.Model.pdb
 C:\Users\pc\Desktop\Team-Archanes-CSharp-OOPBasics\Bejewled\Bejewled.Model\bin\x86\Debug\Bejewled.Model.dll
 C:\Users\pc\Desktop\Team-Archanes-CSharp-OOPBasics\Bejewled\Bejewled.Model\bin\x86\Debug\Bejewled.Model.pdb
 C:\Users\pc\Desktop\Team-Archanes-CSharp-OOPBasics\Bejewled\Bejewled.Model\bin\x86\Debug\Microsoft.Xna.Framework.dll
@@ -122,3 +116,19 @@ C:\Users\Villy\Desktop\OOPProjects\C#\Team-Archanes-CSharp-OOPBasics\Bejewled\Be
 C:\Users\Villy\Desktop\OOPProjects\C#\Team-Archanes-CSharp-OOPBasics\Bejewled\Bejewled.Model\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 C:\Users\Villy\Desktop\OOPProjects\C#\Team-Archanes-CSharp-OOPBasics\Bejewled\Bejewled.Model\obj\x86\Debug\Bejewled.Model.dll
 C:\Users\Villy\Desktop\OOPProjects\C#\Team-Archanes-CSharp-OOPBasics\Bejewled\Bejewled.Model\obj\x86\Debug\Bejewled.Model.pdb
+C:\Users\SilentAngel\Desktop\Team-Archanes-CSharp-OOPBasics\Bejewled\Bejewled.Model\bin\x86\Debug\Bejewled.Model.dll
+C:\Users\SilentAngel\Desktop\Team-Archanes-CSharp-OOPBasics\Bejewled\Bejewled.Model\bin\x86\Debug\Bejewled.Model.pdb
+C:\Users\SilentAngel\Desktop\Team-Archanes-CSharp-OOPBasics\Bejewled\Bejewled.Model\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\SilentAngel\Desktop\Team-Archanes-CSharp-OOPBasics\Bejewled\Bejewled.Model\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\SilentAngel\Desktop\Team-Archanes-CSharp-OOPBasics\Bejewled\Bejewled.Model\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\SilentAngel\Desktop\Team-Archanes-CSharp-OOPBasics\Bejewled\Bejewled.Model\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\SilentAngel\Desktop\Team-Archanes-CSharp-OOPBasics\Bejewled\Bejewled.Model\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\SilentAngel\Desktop\Team-Archanes-CSharp-OOPBasics\Bejewled\Bejewled.Model\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\SilentAngel\Desktop\Team-Archanes-CSharp-OOPBasics\Bejewled\Bejewled.Model\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\SilentAngel\Desktop\Team-Archanes-CSharp-OOPBasics\Bejewled\Bejewled.Model\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\SilentAngel\Desktop\Team-Archanes-CSharp-OOPBasics\Bejewled\Bejewled.Model\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\SilentAngel\Desktop\Team-Archanes-CSharp-OOPBasics\Bejewled\Bejewled.Model\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\SilentAngel\Desktop\Team-Archanes-CSharp-OOPBasics\Bejewled\Bejewled.Model\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\SilentAngel\Desktop\Team-Archanes-CSharp-OOPBasics\Bejewled\Bejewled.Model\obj\x86\Debug\Bejewled.Model.dll
+C:\Users\SilentAngel\Desktop\Team-Archanes-CSharp-OOPBasics\Bejewled\Bejewled.Model\obj\x86\Debug\Bejewled.Model.pdb
+C:\Users\SilentAngel\Desktop\Team-Archanes-CSharp-OOPBasics\Bejewled\Bejewled.Model\obj\x86\Debug\Bejewled.Core.csprojResolveAssemblyReference.cache
